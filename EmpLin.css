@@ -1,0 +1,17 @@
+.container1{
+ border: 2px solid white;   
+ box-shadow: 0px 0px 20px black;
+ margin: 10px auto;
+ padding: 20px;
+ height: 400px;
+ width: 500px;
+ display: flex
+}
+.container2{
+ border: 2px solid white;   
+ box-shadow: 0px 0px 20px black;
+ margin: 10px auto;
+ padding: 20px;
+ height: 400px;
+ width: 500px;
+}
